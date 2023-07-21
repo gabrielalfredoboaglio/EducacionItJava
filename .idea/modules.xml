@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Jsonify.iml" filepath="$PROJECT_DIR$/Jsonify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaEjercicios.iml" filepath="$PROJECT_DIR$/.idea/JavaEjercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jsonify/Jsonify.iml" filepath="$PROJECT_DIR$/Jsonify/Jsonify.iml" />
     </modules>
   </component>
 </project>
